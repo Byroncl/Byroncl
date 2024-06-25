@@ -4,7 +4,7 @@
 
 🌱 Actualmente estoy cursando la carrera de ingeniería en tecnología de la información.
 
-![image](https://github.com/Byroncl/Byroncl/assets/129338728/fad91d11-1db1-44b5-8c9f-a72d6393d744)
+https://raw.githubusercontent.com/Byroncl/Byroncl/c17b5390ada0d93d94bdb8670839ea751c91e7e7/assets/github-snake.svg
 
 
 
