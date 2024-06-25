@@ -5,15 +5,6 @@
 🌱 Actualmente estoy cursando la carrera de ingeniería en tecnología de la información.
 
 
-
-📫 Continuamente aprendo cosas nuevas.
-
-⚡ Hablo español nativo e inglés básico.
-|Tecnologias|
-|Javascript | React|
-| | |
-
-
 ```
 | técnologia| logo | Dominio |
 |------------|-------------|
