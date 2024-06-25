@@ -1,9 +1,15 @@
-- 👋 Hola, soy @Byroncl.
-- 👀 Estudiante y desarollador frontend.
-- 🌱 Actualmente estoy curso la Carrega de ingeniera en tecnologia de la información.
-- 💞️ Manejo técnologias como react, docker, js, ts.
-- 📫 Continuamente aprendo cosas actuales.
-- ⚡ hablo español nativo e ingles básico.
+**👋 Hola, soy @Byroncl.**
+
+👀 Estudiante y desarrollador frontend.
+
+🌱 Actualmente estoy cursando la carrera de ingeniería en tecnología de la información.
+
+💞️ Manejo tecnologías como React, Docker, JavaScript y TypeScript.
+
+📫 Continuamente aprendo cosas nuevas.
+
+⚡ Hablo español nativo e inglés básico.
+
 
 <!---
 Byroncl/Byroncl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
