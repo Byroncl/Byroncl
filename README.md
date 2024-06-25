@@ -10,7 +10,7 @@
 
 ⚡ Hablo español nativo e inglés básico.
 
-https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
+
 <!---
 Byroncl/Byroncl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
