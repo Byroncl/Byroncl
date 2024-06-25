@@ -15,7 +15,7 @@
 
 
 
-| Habilidades | s |
+| Habilidades |
 |------------|-------------|
 | React      | ![image](https://github.com/Byroncl/Byroncl/assets/129338728/aef3d0eb-8915-4dd9-8a57-9c12056a74e6) |
 | Docker     | ![image](https://github.com/Byroncl/Byroncl/assets/129338728/128e622d-fa4a-49d9-9807-f4aab9ef5fc7) |
