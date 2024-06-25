@@ -10,9 +10,6 @@
 
 ⚡ Hablo español nativo e inglés básico.
 
-Languages:
-Python3	C	JS	Solidity	GO
-Python	C	JavaScript	Solidity	Solidity
 
 <!---
 Byroncl/Byroncl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
