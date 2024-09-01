@@ -1,6 +1,6 @@
 **👋 Hola, soy @Byroncl.**
 
-👀 Estudiante y desarrollador frontend.
+👀 Estudiante e desarrollador (más de backend que de frontend).
 
 🌱 Actualmente estoy cursando la carrera de ingeniería en tecnología de la información.
 
