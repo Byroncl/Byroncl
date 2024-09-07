@@ -31,3 +31,21 @@ Desarrollador web full stack en proceso y estudiante de Ing. TI
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Byroncl/recursosLaminaSQLSERVER" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/_byroncl" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Byroncl" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/Byroncl" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/byron-gregorio-calderón-lópez-488b14230" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
