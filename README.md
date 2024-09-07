@@ -1,12 +1,12 @@
-![alt text](https://raw.githubusercontent.com/Byroncl/Byroncl/c17b5390ada0d93d94bdb8670839ea751c91e7e7/assets/github-snake.svg)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Byron Calderón
 ======================================================================================================================================
 
-Desarrollador web en proceso y estudiante de Ing. TI
+Desarrollador web full stack en proceso y estudiante de Ing. TI
 
 * ✉️  You can contact me at [re0byrongcl@gmail.com](mailto:re0byrongcl@gmail.com)
 * 🧠  I'm learning Desarrollo Backend con node.js y Frontend con Angular
+
+![alt text](https://raw.githubusercontent.com/Byroncl/Byroncl/c17b5390ada0d93d94bdb8670839ea751c91e7e7/assets/github-snake.svg)
 
 ### Skills
 
