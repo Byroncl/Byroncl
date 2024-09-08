@@ -30,19 +30,57 @@ Desarrollador web full stack en proceso y estudiante de Ingeniería en TI.
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
+  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
-  <!-- Añade más tecnologías aquí -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  </a>
+  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+  </a>
 </div>
 
 ---
@@ -72,25 +110,16 @@ Desarrollador web full stack en proceso y estudiante de Ingeniería en TI.
 ## 📊 Estadísticas:
 
 <div align="center">
-  <a href="http://www.github.com/Byroncl">
-    <img src="https://github-readme-stats.vercel.app/api?username=Byroncl&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="http://www.github.com/Byroncl">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Byroncl&stroke=ffffff&background=581c87&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Racha actual de GitHub" />
+  <a href="https://github.com/Byroncl">
+    <img src="https://github-readme-stats.vercel.app/api?username=Byroncl&show_icons=true&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Byroncl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byroncl&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byroncl&layout=compact&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
 ---
 
-## 🚀 Aportes:
+## 📈 Actividad reciente:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Byroncl&theme=github-dark&hide_border=true)
 
-### 📌 SQL Server desde 0
-
-<div align="center">
-  <a href="https://github.com/Byroncl/recursosLaminaSQLSERVER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true" alt="Repositorio: SQL Server desde 0" />
-  </a>
-</div>
