@@ -110,11 +110,11 @@ Desarrollador web full stack en proceso y estudiante de Ingeniería en TI.
 ## 📊 Estadísticas:
 
 <div align="center">
-  <a href="http://www.github.com/Byroncl"><img src="https://github-readme-stats.vercel.app/api?username=Byroncl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&show_icons=true" alt="Byroncl's GitHub stats" /></a>
+  <a href="http://www.github.com/Byroncl"><img src="https://github-readme-stats.vercel.app/api?username=Byroncl&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&show_icons=true" alt="Byroncl's GitHub stats" /></a>
 
-<a href="http://www.github.com/Byroncl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Byroncl&stroke=ffffff&background=581c87&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Byroncl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Byroncl&stroke=ffffff&background=312e81&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Byroncl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byroncl&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Byroncl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byroncl&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ---
@@ -123,8 +123,4 @@ Desarrollador web full stack en proceso y estudiante de Ingeniería en TI.
 
 ### 📌 SQL Server desde 0
 
-<div align="center">
-  <a href="https://github.com/Byroncl/recursosLaminaSQLSERVER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true" alt="Repositorio: SQL Server desde 0" />
-  </a>
-</div>
+<div width="100%" align="center"><a href="https://github.com/Byroncl/recursosLaminaSQLSERVER" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
