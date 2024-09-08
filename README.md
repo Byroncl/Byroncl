@@ -34,7 +34,7 @@ Desarrollador web full stack en proceso y estudiante de Ing. TI
 </div>  
 <p align="center"> <a href="https://discord.com/users/haxu30" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
 
-### Random
+### Estadisticas
 
 <div align="center">
  
@@ -44,17 +44,13 @@ Desarrollador web full stack en proceso y estudiante de Ing. TI
 
 <a href="https://github.com/Byroncl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byroncl&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Byroncl/recursosLaminaSQLSERVER" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 </div>
 
 ### Aportes
 
-<b>Curso con diapositivas de sql server desde 0</b>
+<b>Sql server desde 0</b>
 
-<div width="100%" align="center"><a href="https://github.com/Byroncl/recursosLaminaSQLSERVER" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Byroncl/recursosLaminaSQLSERVER" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Byroncl&repo=recursosLaminaSQLSERVER&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 
