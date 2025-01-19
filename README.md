@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 ## Soy Byron Calderón
-### Desarrollador Web Full Stack en Proceso
+### Arquitecto de software Proceso
 
 ---
 
