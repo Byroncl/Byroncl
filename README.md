@@ -8,18 +8,24 @@
 
 </div>
 
-```
+<!-- Pixel Art GIF destacado -->
+<p align="center">
+  <img src="assets/banner.gif" alt="Pixel Art Programación" width="400" />
+</p>
+
+---
         ____                                ____   _       _
        / __ )  __  __   _ __  ___   _ __  / ___|  | |     | |
       / __  | / / / /  | '__|/ _ \ | '_ \| |      | |     | |
      / /_/ / / /_/ /   | |  | (_) || | | | |___   | |___  |_|
      \____/  \__, /    |_|   \___/ |_| |_|\____|  |_____| (_)
-             /____/
+            /____/
+
 ```
 
 <div align="center">
-  
-### 🎮 **Desarrollador Web Full Stack Junior** 
+
+### 🎮 **Desarrollador Web Full Stack Junior**
 #### 🌟 Especializado en MEAN Stack
 #### 🌟 Actualmente aprendiendo sobre arquitectura de software y automatizaciones
 
@@ -92,6 +98,7 @@
 ### 📌 Proyectos destacados
 
 <div width="100%" align="center">
-  <a href="https://github.com/noxyoru/cursoSqlServer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noxyoru&repo=cursoSqlServer&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&locale=en" /></a> 
+  <a href="https://github.com/noxyoru/cursoSqlServer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noxyoru&repo=cursoSqlServer&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&locale=en" /></a>
   <a href="https://github.com/noxyoru/Herramientas-y-Laminas-Python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=noxyoru&repo=Herramientas-y-laminas-python&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=312e81&hide_border=true&locale=en" /></a>
 </div>
+```
