@@ -81,9 +81,15 @@
 
 ## 📝 Recent Posts & Projects
 
-<ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/byron-gregorio-calder%C3%B3n-l%C3%B3pez-488b14230_vscode-typescript-softwareengineering-ugcPost-7412183587728330752-Hc8f?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnUcqgBQG9DvEcnk2QjRKMljJu4scuLETY">Ghost Recipes (extensión de vs code)</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/posts/byron-gregorio-calder%C3%B3n-l%C3%B3pez-488b14230_python-flask-inteligenciaartificial-share-7403813632159109120-7QE5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnUcqgBQG9DvEcnk2QjRKMljJu4scuLETY">Automatización End-to-End con IA, Python/Flask y Google Cloud</a></li>
+<div align="center">
+  
+| 🎯 Project | 🔗 Link |
+|-----------|--------|
+| 👻 **Ghost Recipes** - VS Code Extension | [![LinkedIn](https://img.shields.io/badge/View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/byron-gregorio-calder%C3%B3n-l%C3%B3pez-488b14230_vscode-typescript-softwareengineering-ugcPost-7412183587728330752-Hc8f) |
+| 🤖 **Automatización End-to-End** - AI + Python/Flask + GCloud | [![LinkedIn](https://img.shields.io/badge/View-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/byron-gregorio-calder%C3%B3n-l%C3%B3pez-488b14230_python-flask-inteligenciaartificial-share-7403813632159109120-7QE5) |
+
+</div>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/byron-gregorio-calder%C3%B3n-l%C3%B3pez-488b14230/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_byroncl/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
